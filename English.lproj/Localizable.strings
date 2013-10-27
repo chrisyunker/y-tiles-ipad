@@ -1,0 +1,31 @@
+// 
+//  Localizable.strings
+//  y-tiles
+//
+//  Created by Chris Yunker on 7/8/10.
+//  Copyright 2010 chrisyunker.com. All rights reserved.
+//
+
+"YTiles"               = "Y-Tiles";
+
+// Dialog View
+"StartButton"          = "Start";
+"CancelButton"         = "Cancel";
+"ResumeButton"         = "Resume";
+"ResumeDialog"         = "Resume Previous Game?";
+"CompleteDialog"       = "Board Solved!";
+
+// Wait View
+"WaitImageLabel"       = "Creating Board";
+
+// StockPhotoController
+"StockPhotoTitle"      = "Stock Photo";
+
+// OptionsController
+"OptionsTitle"         = "Options";
+"ColumnsLabel"         = "Columns";
+"RowsLabel"            = "Rows";
+
+// AboutController
+"AboutTitle"           = "About";
+"VersionLabel"         = "Version";
